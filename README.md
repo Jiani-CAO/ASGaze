@@ -5,7 +5,13 @@
 
 **Demo video:**
 
-<div align="center">       <a href="https://youtu.be/_4NIigLkK0k">      <img        src="https://i9.ytimg.com/vi_webp/_4NIigLkK0k/mq1.webp?sqp=COjahJsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BYAC0AWKAgwIABABGHIgSSg-MA8=&rs=AOn4CLDR7V-P7jfUIfWzALOmzvx3zaJLLQ"        alt="Everything Is AWESOME"        style="width:50%;">       </a>     </div>
+<div align="center">       
+    <a href="https://youtu.be/_4NIigLkK0k">      
+        <img src="http://img.youtube.com/vi/_4NIigLkK0k/0.jpg"        
+             alt="Everything Is AWESOME"        
+             style="width:50%;">       
+    </a>     
+</div>
 
 <br>
 
