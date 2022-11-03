@@ -1,0 +1,21 @@
+{
+    "data":"CMonitor",
+    "n_gpu": 1,
+
+    "arch": {
+        "type": "VGG16_U-Net",
+        "test":1
+    },
+
+    "val_data": {
+        "ishape":[321,321],
+        "dir": "D:/ASGaze/Database/raw_data",
+        "batch_size": 1,
+        "shuffle": false,
+        "num_workers": 0
+    },
+    "trainer": {
+        "runs_dir":"D:/ASGaze/Database/output",
+        "load_id":"0207-1231"
+    }
+}
