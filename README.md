@@ -1,5 +1,7 @@
 # ASGaze
- This is the repo for SenSys 2022 paper: "Gaze Tracking on Any Surface with Your Phone" 
+This is the repo for SenSys 2022 paper: "Gaze Tracking on Any Surface with Your Phone".
+
+Authors: Jiani Cao, Chengdong Lin, Yang Liu, Zhenjiang Li
 
 **Project website:** <a href="https://asgaze.github.io/"> ASGaze</a>
 
