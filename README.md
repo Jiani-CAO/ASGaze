@@ -84,5 +84,11 @@ The program has been tested in the following environment:
 If you find our work useful in your research, please consider citing:
 
 ```
-Coming soon…
+@inproceedings{cao2022gaze,
+title={Gaze Tracking on Any Surface with Your Phone},
+author={Cao, Jiani and Lin, Chengdong and Liu, Yang and Li, Zhenjiang},
+booktitle={Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems},
+pages={320--333},
+year={2022}
+}
 ```
