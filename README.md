@@ -1,7 +1,5 @@
 # ASGaze
-This is the repo for SenSys 2022 paper: "Gaze Tracking on Any Surface with Your Phone".
-
-Authors: Jiani Cao, Chengdong Lin, Yang Liu, Zhenjiang Li
+This is the repo for SenSys 2022 paper: "Gaze Tracking on Any Surface with Your Phone" and TMC 24 paper: "Practical Gaze Tracking on Any Surface with Your Phone".
 
 **Project website:** <a href="https://asgaze.github.io/"> ASGaze</a>
 
@@ -92,3 +90,18 @@ pages={320--333},
 year={2022}
 }
 ```
+```
+@article{cao2024practical,
+  title={Practical Gaze Tracking on Any Surface with Your Phone},
+  author={Cao, Jiani and Chen, Jiesong and Lin, Chengdong and Liu, Yang and Wang, Kun and Li, Zhenjiang},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+  ---
+
+# License
+
+You may use this source code for academic and research purposes. Commercial use is strictly prohibited.
